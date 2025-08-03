@@ -19,11 +19,21 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&height=300&section=header&text=Kyueun's%20Git%20Hub&fontSize=55&fontAlignY=38&animation=fadeIn&desc=To%20become%20a%20better%20developer.&descAlignY=51&descAlign=57&fontColor=FFFFFF)
   
 ## ✨ About me
-- Junior Front-end Developer
-  
+
+- 🎓 Seoul Women’s University (Software Convergence & Info Security)
+- 💻 Junior Frontend Developer
+
+
+## 🏆 Awards
+- 🥇 2024 서울여대 **GURU2 Android** 우수상 (안드로이드 개발자)
+- 🥇 2025 멋쟁이사자처럼 **여기톤** 임팩트상(3등) (프론트엔드 개발자)
+
+## 📊 GitHub Stats
 
 <!--// username뒤에 here을 본인 user name으로 바꾸면 된다.-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongkyueun&layout=compact)](https://github.com/jeongkyueun/github-readme-stats)
+
+[![jeongkyueun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongkyueun&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## ⚒ Skills 
@@ -39,5 +49,4 @@ Here are some ideas to get you started:
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongkyueun&show_icons=true&theme=radical)-->
-
 
