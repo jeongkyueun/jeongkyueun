@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 
 ## 🏆 Awards
-- 🥇 2024 서울여대 **GURU2 Android** 우수상 (안드로이드 개발자)
-- 🥇 2025 멋쟁이사자처럼 **여기톤** 임팩트상(3등) (프론트엔드 개발자)
+- 🥉 2024 서울여대 **GURU2 Android** 우수상 (안드로이드 개발자)
+- 🥉 2025 멋쟁이사자처럼 **여기톤** 임팩트상(3등) (프론트엔드 개발자)
 
 ## 📊 GitHub Stats
 
